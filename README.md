@@ -1,4 +1,4 @@
-# thing
-an idle game by me
+# ?A {{@)
+my website
 
-work in progress!!!!
+(work in progress)
