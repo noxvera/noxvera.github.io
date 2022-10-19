@@ -1,4 +1,7 @@
-# thing
-an idle game by me
+# my website
+work in progress!!!
 
-work in progress!!!!
+things it will have (probably)
+home page
+the game im making
+links to [] 

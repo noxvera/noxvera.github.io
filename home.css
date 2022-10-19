@@ -1,0 +1,57 @@
+html {
+    background-color: black;
+    font-family: ibm-plex-sans, sans-serif;
+}
+
+body{
+    color: white
+}
+
+/*
+.container {
+    margin: 0 auto;
+    padding: 0 20px 0 20px;
+    max-width: 900px;
+}
+*/
+
+header {
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 12px;
+    height: 282px;
+    background-color: white;
+    color: black;
+}
+
+.smallertitle{
+    margin-right: 111px;
+}
+
+.biggertitle{
+    display: block;
+    margin-left: 125px;
+    font-size: 42px;
+    /* text-decoration: underline; */
+}
+
+.author {
+    margin-top: 25px;
+    font-size: 75%; 
+}
+
+.easy{
+    font-size: 2000%;
+}
+
+/*
+.homebutton {
+    background-color: #d1082a;
+    border: none;
+    color: white;
+    padding: 100px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+}
+*/
